@@ -21,3 +21,6 @@ Baby Tech App:
 <br>
 ![4](https://github.com/omidreact/idea/assets/116552870/b488d740-a1d7-4399-a367-860a0a059a18)
 <br><br>
+Plant Management App:
+<br>
+![Untitled](https://github.com/omidreact/idea/assets/116552870/63b84caf-ddec-4ced-8044-3570a9256b2d)
